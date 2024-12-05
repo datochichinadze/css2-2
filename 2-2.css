@@ -1,0 +1,181 @@
+p {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+#first {
+    width: 1140px;
+    padding: 12px 80px;
+    text-align: center;
+    display: inline-block;
+}
+
+
+#photo {
+    padding: 13.489px;
+    vertical-align: middle;
+}
+
+#about {
+    color: #FF5DA3;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 70px;
+    vertical-align: middle;
+}
+
+#navigation {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#nav {
+    display: inline-block;
+    margin-top: 15px;
+}
+
+#what {
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 15px;
+}
+
+#contact {
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 15px;
+}
+
+#help {
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 15px;
+}
+
+#us {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 8px;
+    background-color: #00AC25;
+    padding: 8px 16px;
+    margin-left: 70px;
+}
+
+#second {
+    width: 1026px;
+    height: 600px;
+    text-align: center;
+    margin-left: 150px;
+}
+
+h1 {
+    color: #000;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 700;
+}
+
+span {
+    color: #FF5DA3;
+    font-size: 72px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#unlock {
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+h2 {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+#the {
+    color: #6941C6;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+#become {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background-color: #00AC25;
+}
+
+
+#last {
+    background: var(--Colors-Background-bg-brand-section, #53389E);
+    margin-top: 100px;
+    
+}
+
+#foto {
+    margin-left: 200px;
+    vertical-align: middle;
+}
+
+#overview {
+    color: #FFF;
+    vertical-align: middle;  
+    margin-left: 200px; 
+}
+
+#features {
+    color: #FFF;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+#pricing {
+    color: #FFF;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+#careers {
+    color: #FFF;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+#help {
+    color: #FFF;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+#privacy {
+    color: #FFF;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+
+#copy {
+    color: #FFF;
+    vertical-align: middle;
+    margin-left: 200px;
+}
+
+#for {
+    display: inline-block;
+    vertical-align: middle;
+}
