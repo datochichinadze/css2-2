@@ -6,11 +6,18 @@ a {
     text-decoration: none;
 }
 
+#container {
+    margin: 0 auto;
+    width: 100%;
+
+}
+
 #first {
     width: 1140px;
     padding: 12px 80px;
     text-align: center;
-    display: inline-block;
+    margin: 0 auto;
+    
 }
 
 
@@ -73,6 +80,7 @@ a {
     height: 600px;
     text-align: center;
     margin-left: 150px;
+    margin: 0 auto;
 }
 
 h1 {
